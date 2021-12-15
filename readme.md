@@ -15,7 +15,7 @@ This bash script will be generate your hugo blog and named as "site".
 If you want to use another name instead site, you must change path of webpack output at webpack.config.js and path of css purge at tailwind.css
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 This bash script will be download npm dependecies that needed in development.
